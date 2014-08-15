@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    <table><tr><td>QUyen</td></tr></table>
+    <table><tr><td>QUyen New</td></tr></table>
     </div>
     </form>
 </body>
